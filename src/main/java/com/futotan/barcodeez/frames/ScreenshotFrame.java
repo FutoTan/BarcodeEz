@@ -52,6 +52,7 @@ public class ScreenshotFrame extends JFrame {
                 dispose();
             }
         });
+        dispose();
     }
 
     class ScreenshotPanel extends JPanel {
